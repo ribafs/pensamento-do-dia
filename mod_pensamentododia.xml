@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.2" client="site" method="upgrade">
+	<name>Pensamento do Dia</name>
+	<author>Ribamar FS</author>
+	<creationDate>Dezembro de 2013</creationDate>
+	<copyright>(C) 2005 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>ribafs@gmail.com</authorEmail>
+	<authorUrl>http://ribafs.org</authorUrl>
+	<version>1.0</version>
+	<description>Este módulo exibe um pensamento aleatório de um arquivo texto.
+		Foi adaptado do módulo vivi_code do Serra Antonio (tonio@vivigrosseto.it) - http://www.vivigrosseto.it/ 
+	</description>
+	<files>
+		<filename module="mod_pensamentododia">mod_pensamentododia.php</filename>
+		<filename pensamentos="mod_pensamentododia">mod_pensamentododia.txt</filename>
+	</files>
+</extension>
