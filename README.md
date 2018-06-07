@@ -5,3 +5,6 @@ Pequeno módulo que mostra um pensamento aleatório a cada visita. São uns 200 
 
 ## Instalação
 https://github.com/ribafs/pensamento-do-dia
+
+Demo
+http://cursos.ribafs.org/
