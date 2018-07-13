@@ -7,4 +7,4 @@ Pequeno módulo que mostra um pensamento aleatório a cada visita. São uns 200 
 https://github.com/ribafs/pensamento-do-dia
 
 Demo
-http://cursos.ribafs.org/
+http://ribafs.org/joomlademo/
