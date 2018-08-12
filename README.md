@@ -3,7 +3,7 @@
 
 Pequeno módulo que mostra um pensamento aleatório a cada visita. São uns 200 pensamentos no total.
 
-# Dizendo não para o lado negro da força (MS) mudei para o GitLab. Manterei os arquivos aqui em respeito aos usuários e ao antigo GitHub mas estarei atualizando somente no GitLab daqui pra frente.
+### Com a compra do GitHub pela (MS) fiz uma cópia deste repositório no GitLab.
 https://gitlab.com/ribafs/pensamento-do-dia
 
 
