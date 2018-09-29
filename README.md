@@ -10,5 +10,3 @@ https://gitlab.com/ribafs/pensamento-do-dia
 ## Instalação
 https://github.com/ribafs/pensamento-do-dia
 
-Demo
-http://ribafs.org/joomlademo/
