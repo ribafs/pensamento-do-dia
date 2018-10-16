@@ -3,6 +3,10 @@
 
 Pequeno módulo que mostra um pensamento aleatório a cada visita. São uns 200 pensamentos no total.
 
+## Demo
+http://ribafs.org
+
+
 ### Com a compra do GitHub pela (MS) fiz uma cópia deste repositório no GitLab.
 https://gitlab.com/ribafs/pensamento-do-dia
 
