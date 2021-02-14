@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="3.2" client="site" method="upgrade">
-	<name>Pensamento do Dia</name>
+	<name>mod_pensamentododia</name>
 	<author>Ribamar FS</author>
 	<creationDate>Dezembro de 2013</creationDate>
 	<copyright>(C) 2005 Open Source Matters. All rights reserved.</copyright>
@@ -14,5 +14,6 @@
 	<files>
 		<filename module="mod_pensamentododia">mod_pensamentododia.php</filename>
 		<filename pensamentos="mod_pensamentododia">mod_pensamentododia.txt</filename>
+		<filename pensamentos="mod_pensamentododia">PensamentodoDia.pdf</filename>		
 	</files>
 </extension>

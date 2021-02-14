@@ -10,6 +10,7 @@
 
 // no direct access
 defined('_JEXEC') or die('Restricted access');
+use Joomla\CMS\Uri\Uri;
 
 class pensamentos
 {
@@ -21,7 +22,7 @@ class pensamentos
 	}
 }
 $aleatorio = new pensamentos();
-print '<div id="pensamentos">'.$aleatorio->pensamento_aleatorio().'</div>'; 
-
+print '<div id="pensamentos">'.$aleatorio->pensamento_aleatorio().'</div></ br>';
+$pensa = Uri::root() . 'modules/mod_pensamentododia/Pensamentodos.pdf';
+//print "<div id=\"pensamentos\"><a href=\"$pensa\" target="_blank">Download</a></div>";
 ?>
-
