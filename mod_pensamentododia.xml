@@ -13,7 +13,6 @@
 	</description>
 	<files>
 		<filename module="mod_pensamentododia">mod_pensamentododia.php</filename>
-		<filename pensamentos="mod_pensamentododia">mod_pensamentododia.txt</filename>
-		<filename pensamentos="mod_pensamentododia">Pensamentos.pdf</filename>		
+		<filename pensamentos="mod_pensamentododia">mod_pensamentododia.txt</filename>		
 	</files>
 </extension>
