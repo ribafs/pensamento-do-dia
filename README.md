@@ -1,5 +1,5 @@
 ## pensamento-do-dia
-## Suporta Joomla 2.5 e 3.x
+## Suporta Joomla 2.5, 3.x e 4.x
 
 Pequeno módulo que mostra um pensamento aleatório a cada visita. São uns 200 pensamentos no total.
 
